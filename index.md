@@ -1,14 +1,5 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Software professional with nearly 6 years of experience in web development, with expertise in Angular,React and other Frontend frameworks. Experienced at working with foreign clients to successfully deliver projects. Strong communication and adaptive skills with experience in collaborating with global clients.
 
 # Ticket Text
 
